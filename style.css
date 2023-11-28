@@ -1,0 +1,20 @@
+body{
+    background: linear-gradient(to left, #79dfe6, #7265a9, #7fc7e3);
+    font-family:Arial, Helvetica, sans-serif
+    
+}
+
+section{
+    margin: auto;
+    background-color: #bcb0ee;
+    border-radius:50px ;
+    text-align: center;
+
+
+}
+
+img{
+    border-radius: 20px;
+    width: 250px;
+
+}
